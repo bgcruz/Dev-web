@@ -1,3 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
 .icons img {
     max-width: 40px;
     margin-right: 10px;
@@ -8,3 +14,10 @@ img {
     height: auto;
 }
 
+/* Estilos do rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
